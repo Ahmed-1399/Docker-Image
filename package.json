@@ -1,0 +1,9 @@
+{
+  "name": "pythonproject",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
